@@ -1,10 +1,7 @@
 # heatmap for eye tracker
 
 ## How to use it ???
-    /usr/local/bin/python3.7 ./main.py \
-    -j ./test/HeatMapData.txt \
-    -bg ./test/shelf_goods5.JPG \
-    -o ./test/heatmap1.png
+    python main.py -j ../demo/data/HeatMapData.txt -bg ../demo/data/shelf_goods5.JPG -o ../demo/result/heatmap.png
 
 ## How does it like ???
 ![image]()
