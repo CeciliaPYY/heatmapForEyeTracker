@@ -5,5 +5,5 @@
     -bg ../demo/data/shelf_goods5.JPG \
     -o ../demo/result/heatmap.png
 
-## How does it like ???
+## Result ???
 ![image](./venv/demo/result/heatmap.png)
