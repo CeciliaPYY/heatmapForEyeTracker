@@ -12,6 +12,7 @@
 ## Also
 1. I've added some function to define your own cmap in utils/image_utils.py,
 i.e. 
+
     def get_cmap_jet_asarray():
         colormap_float = np.zeros((256, 3), np.float)
         for i in range(0, 256, 1):
